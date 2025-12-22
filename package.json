@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "esbuild": "^0.24.2",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.1"
   },
   "dependencies": {
     "@types/node": "^22.13.17"
