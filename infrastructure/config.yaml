@@ -29,11 +29,11 @@ GLUE_TMP_PREFIX: "glueetl-tmp"
 STREAM_PROVISIONED: false
 STREAM_SHARD_COUNT: 1
 
-API_STAGE_NAME: "dev"
+API_STAGE_NAME: "prod"
 DEV_MODE: true
 S3_BACKUP_MODE: false
 
-EMAIL_ADDRESS: "analyticsdev@dinopoloclub.com"
+EMAIL_ADDRESS: "analyticsprod@dinopoloclub.com"
 CLOUDWATCH_RETENTION_DAYS: 30
 
 CDK_VERSION: "2.169.0"
